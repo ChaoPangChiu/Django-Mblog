@@ -1,0 +1,7 @@
+# project/.gitignore
+
+myvirtualenv
+*.pyc
+__pycache__
+staticfiles
+db.sqlite3
